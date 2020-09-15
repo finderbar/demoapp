@@ -1,5 +1,15 @@
-Basic Git Command(Tue Sep 15)
+Basic Git Command
 =========================
+
+# Day One
+1) git clone
+2) git status
+3) git add
+4) git commit -m "[desc]"
+5) git push origin master
+6) git pull origin master
+
+# Day Two
 1) git init
 2) git remote
 3) git revert
