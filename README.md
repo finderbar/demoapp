@@ -1,7 +1,7 @@
 Basic Git Command
 =========================
-#Sep 15, 2020
 # Day One
+#Sep 15, 2020
 1) git clone
 2) git status
 3) git add
@@ -9,8 +9,8 @@ Basic Git Command
 5) git push origin master
 6) git pull origin master
 
-#Sep 16, 2020
 # Day Two
+#Sep 16, 2020
 1) git init
 2) git remote
 3) git revert
